@@ -13,7 +13,7 @@ how to execute?
 4. You need to install some modules to execute the whole program like phao,xlrd,xlwt,vlc,etc. that you can install using pip for windows and apt-get install for pi3 or linux.
 
 <<<<<<< HEAD:readme.txt
-Note :-For any query contact me "9610510663" on call or whatsapp.
+Note :-For any query contact me "8839233105" on call or whatsapp.
 
 ---------------------Thank you-----------------------------
 =======
